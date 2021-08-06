@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaishnagre12
-- 👀 I’m interested in Data science and machine learning.
+- 👀 I’m interested in Data science.
 - 🌱 I’m currently learning Data Science ,ML.
 - 📫 How to reach me ...vaishnavinagre12@gmail.com
 
